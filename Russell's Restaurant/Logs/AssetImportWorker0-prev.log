@@ -1,0 +1,147 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19045.4412; Version 2009; 64bit' Language: 'hu' Physical Memory: 16185 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/akost/Downloads/Russell's Restaurant
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51996
+Successfully changed project path to: C:/Users/akost/Downloads/Russell's Restaurant
+C:/Users/akost/Downloads/Russell's Restaurant
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 65.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/akost/Downloads/Russell's Restaurant/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K610M (ID=0x12b9)
+    Vendor:   
+    VRAM:     984 MB
+    Driver:   25.21.14.2625
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56580
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002258 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.238 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002527 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.141 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1630 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2064.
+Total: 2.983800 ms (FindLiveObjects: 0.322700 ms CreateObjectMapping: 0.128700 ms MarkObjects: 2.415900 ms  DeleteObjects: 0.114700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/!Original/Animations/Cam2.anim
+  artifactKey: Guid(66c508afe7e91ae41ae30be5a884970f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!Original/Animations/Cam2.anim using Guid(66c508afe7e91ae41ae30be5a884970f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5757d00a93adffbc4e3aef824221dc01') in 0.070882 seconds
+  Import took 0.074599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.992440 seconds.
+  path: Assets/!Original/Animations/DOOR 1.controller
+  artifactKey: Guid(f22836fc6c0000542a629b5d870493a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!Original/Animations/DOOR 1.controller using Guid(f22836fc6c0000542a629b5d870493a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc0f9fc0f1337d2efdef5c1efb69ce1') in 0.015458 seconds
+  Import took 0.019148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.566871 seconds.
+  path: Assets/!Original/Animations/Animatronics/Ben
+  artifactKey: Guid(0a079d8785575e04aa899618476c8d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!Original/Animations/Animatronics/Ben using Guid(0a079d8785575e04aa899618476c8d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c368af94bb54ee71449085c75faab79') in 0.013581 seconds
+  Import took 0.017970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.188593 seconds.
+  path: Assets/!Original/Animations/Animatronics/Ben/Jumpscare.anim
+  artifactKey: Guid(bbb8882e9eaae9c4aa3f6040c5b87b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!Original/Animations/Animatronics/Ben/Jumpscare.anim using Guid(bbb8882e9eaae9c4aa3f6040c5b87b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e287ccb7d58e637355619c2f1413d28d') in 0.011674 seconds
+  Import took 0.015313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.720883 seconds.
+  path: Assets/!Original/Animations/Animatronics/Ben/MenuEvilEyes.anim
+  artifactKey: Guid(f8022d2414d593d46b6634a569804297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!Original/Animations/Animatronics/Ben/MenuEvilEyes.anim using Guid(f8022d2414d593d46b6634a569804297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06af08a0ac0b54af96b774af680adc27') in 0.012316 seconds
+  Import took 0.016340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.651687 seconds.
+  path: Assets/!Original/Animations/Animatronics/Ben/Step1.anim
+  artifactKey: Guid(ab3c7ba7f74d41a4688cb55f49a22aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!Original/Animations/Animatronics/Ben/Step1.anim using Guid(ab3c7ba7f74d41a4688cb55f49a22aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea95f550ee036b527310b35468533c79') in 0.012077 seconds
+  Import took 0.015588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 350.351071 seconds.
+  path: Assets/!Original/Animations/Animatronics/Happy
+  artifactKey: Guid(d536546aadd222642a26fbb90d05ba3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!Original/Animations/Animatronics/Happy using Guid(d536546aadd222642a26fbb90d05ba3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591ed6af53bcc674042fef3c75bdcd09') in 0.011212 seconds
+  Import took 0.015083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.172799 seconds.
+  path: Assets/!Original/Animations/Animatronics/Tina
+  artifactKey: Guid(7a0f631de62d3934ea85430bd26d1e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!Original/Animations/Animatronics/Tina using Guid(7a0f631de62d3934ea85430bd26d1e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b8ad9602aa0dc644d715ae599bd9fb7') in 0.010750 seconds
+  Import took 0.015395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.712995 seconds.
+  path: Assets/!Original/Animations/Animatronics/Tina/Walk.anim
+  artifactKey: Guid(6cedd693deca4404f9d2fff40444822d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!Original/Animations/Animatronics/Tina/Walk.anim using Guid(6cedd693deca4404f9d2fff40444822d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1eee5b88bf06052aa8a80f7d4a6375c') in 0.012443 seconds
+  Import took 0.015995 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
